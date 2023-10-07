@@ -1,0 +1,17 @@
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\bin\x86\Debug\RPGIGDC.exe
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\bin\x86\Debug\RPGIGDC.pdb
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\bin\x86\Debug\Engine3D.dll
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\bin\x86\Debug\SharpDX.dll
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\bin\x86\Debug\SharpDX.DirectSound.dll
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\bin\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\bin\x86\Debug\Engine3D.pdb
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\bin\x86\Debug\SharpDX.xml
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\bin\x86\Debug\SharpDX.DirectSound.xml
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\bin\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\obj\x86\Debug\RPGIGDC.csprojAssemblyReference.cache
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\obj\x86\Debug\RPGIGDC.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\obj\x86\Debug\RPGIGDC.csproj.CopyComplete
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\obj\x86\Debug\RPGIGDC.exe
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\obj\x86\Debug\RPGIGDC.pdb
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\bin\x86\Debug\Tao.Ode.dll
+C:\Users\Богдан\source\repos\RPGIGDC\RPGIGDC\bin\x86\Debug\Tao.Ode.xml

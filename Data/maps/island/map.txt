@@ -1,0 +1,6 @@
+boundMin -5 0 -33
+boundMax 28 0 15
+
+terrain terrain0.smd
+mesh terrain1.smd trees.tga
+mesh terrain2.smd trees.tga nodepth

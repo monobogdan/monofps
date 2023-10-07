@@ -1,0 +1,15 @@
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\bin\x86\Debug\Engine3D.dll
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\bin\x86\Debug\Engine3D.pdb
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\bin\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\bin\x86\Debug\SharpDX.DirectSound.dll
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\bin\x86\Debug\SharpDX.dll
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\bin\x86\Debug\Tao.OpenGl.dll
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\bin\x86\Debug\SharpDX.xml
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\bin\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\bin\x86\Debug\SharpDX.DirectSound.xml
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\bin\x86\Debug\Tao.OpenGl.xml
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\obj\x86\Debug\Engine3D.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\obj\x86\Debug\Engine3D.csproj.CopyComplete
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\obj\x86\Debug\Engine3D.dll
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\obj\x86\Debug\Engine3D.pdb
+C:\Users\Богдан\source\repos\RPGIGDC\Engine3D\obj\x86\Debug\Engine3D.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+Game(CreateModules): Engine3D version 1.0
+Graphics(CreateDevice): Initialized graphics
+Graphics(CreateDevice): Total video memory: 4090
+Data(.ctor): Data directory not found "Mods/"
+Data(.ctor): Data directory not found "System/"
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
+Texture(Finalize): Freed texture 
